@@ -1,0 +1,12 @@
+# Notebook runtime/cache artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local environment files
+.venv/
+.env
+
+# One-off local scaffold scripts (not part of teaching repo)
+generate_notebooks.py
+add_more_notebooks.py
